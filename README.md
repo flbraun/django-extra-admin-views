@@ -1,0 +1,1 @@
+# django-extra-admin-views
